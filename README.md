@@ -1,3 +1,7 @@
-# hive_app
+# Flutter app todo with hive
 
-A new Flutter project.
+
+
+## Скриншот
+
+![Скриншот приложения](assets/ui.png)
